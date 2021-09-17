@@ -1,4 +1,7 @@
-# checkout-site
+# VueJS 3 Quickstart
+This Project has SASS, vue-meta, i18n and fontawesome preinstalled for a quick and easy start.
+It also uses the router and PWA Plugins.
+Mocha + Chai are installed for Unit Tests.
 
 ## Project setup
 ```
